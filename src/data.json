@@ -1,0 +1,84 @@
+{
+    "profile": [
+        {
+            "name": "D H S Ravikiran",
+            "designation": "AI/ML/DL Trainee",
+            "email": "dhss.ravikiran@gmail.com",
+            "phone": "9440239699",
+            "Objective": "To find a place where I can find opportunity to utilize my skills without any prejudice",
+            "hyperlinks":{
+                "facebook": "https://www.facebook.com",
+                "twitter": "https://www.twitter.com",
+                "github": "https://www.github.com/Ravikirandhss",
+                "linkedin": "https://www.linkedin.com/in/ravikiran-dusanapudi-57a46618a/"
+
+            },
+            "education": [
+                ["SRKR Engg College","B.Tech(CSE)","2018-present","9.06"],
+                ["St Anns Jr College","Intermediate","2016-2018","98.4%"],
+                ["St Anns EM School","SSC","2015-2016","93%"]
+            ],
+            "certifications": [
+                "MTA:Introduction to Programming Using HTML and CSS - Certified 2019",
+                "Machine Learning with Python IBM Data Science Specialization",
+                "Neural Networks and Deep Learning Deeplearning.ai Specialization",
+                "Cisco CyberSecurity Essentials"
+            ],
+            
+            "skills":[ "C","C++","Python","HTML/CSS/JS","React","Dart"],
+            "language": ["English","Telugu","Tamil"],
+            "location": 
+                {
+                "City": "Tadepalligudem",
+                "state": "Andhra Pradesh",
+                "country": "India",
+                "Pincode": "534102"}
+                
+        },
+        {
+            "name": "Dusanapudi Harsha sai",
+            "designation": "MERN Developer",
+            "email": "ravikiran.dhss@gmail.com",
+            "phone": "9505666134",
+            "Objective": "To find a place where I can find opportunity to utilize my skills without any prejudice",
+            "hyperlinks": {
+                "facebook": "https://facebook.com",
+                "twitter": "https://twitter.com",
+                "github": "https://github.com/Ravikirandhss",
+                "linkedin": "https://www.linkedin.com/in/ravikiran-dusanapudi-57a46618a/"
+              
+            },
+            "education": [
+                ["SVEC Engg College","B.Tech(CSE)","2016-2020","9.00"],
+                ["Sasi Jr College","Intermediate","2014-2016","94.1%"],
+                ["BVBRPS School","SSC","2013-2014","94%"]
+            ],
+            "certifications": [
+                "MTA:Introduction to Programming Using HTML and CSS - Certified 2019",
+                "Reactjs NanoDegree Udacity",
+                "Android App Development Google Certification",
+                "Cisco CyberSecurity Essentials"
+            ],
+            "skills": [
+                "C",
+                "C++",
+                "Python",
+                "HTML/CSS/JS/Mongo/Express/Node",
+                "React",
+                "Java"
+            ],
+            "language": [
+                "English",
+                "Telugu",
+                "Malayalam"
+            ],
+            "location": {
+                "City": "Visakhapatnam",
+                "state": "Andhra Pradesh",
+                "country": "India",
+                "Pincode": "530045"
+            }
+        }
+        
+    ]
+}
